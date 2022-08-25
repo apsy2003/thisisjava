@@ -11,7 +11,7 @@ public class BoxExample {
 			String str = box1.get();
 			
 			Box<Integer> box2 = new Box<Integer>();
-			box2.set("ȫ�浿");
+			box2.set(6);
 			String str = box2.get();
 	}
 
